@@ -41,8 +41,6 @@ This is a web based application developed for health couch related based website
 ![Healthcouch - Google Chrome 11_29_2022 11_09_59 AM](https://user-images.githubusercontent.com/116551554/204477000-b9d9000f-5e14-4483-8d56-d4410452e2fd.png)
 ![Healthcouch - Google Chrome 11_29_2022 11_10_33 AM](https://user-images.githubusercontent.com/116551554/204477195-b67d06e5-525d-4c7b-84f3-fd0350d5544d.png)
 ![Healthcouch - Google Chrome 11_29_2022 11_11_02 AM](https://user-images.githubusercontent.com/116551554/204477271-cd04c29e-5237-40b2-8d64-d55fb9aeb614.png)
-![Healthcouch - Google Chrome 11_29_2022 12_37_34 PM](https://user-images.githubusercontent.com/116551554/204477309-a3bdb4e2-b54d-45d4-81c4-f992b04e09fa.png)
-![Healthcouch - Google Chrome 11_29_2022 12_37_43 PM](https://user-images.githubusercontent.com/116551554/204478058-69fc0e5a-0f3c-490d-a805-a315329f216b.png)
 ###About us- Health according to WHO is a state of complete physical,mental and social well being and not merely the absence of disease and infirmity.a variety of definition have been used for different purpose over time.Health is important to live life to fullest when a person leads healthy lifestyle the body remains healthy and the mind is active and fresh.living a healthy lyf would extend longevity and also regenerate the body and mind.
 ## Tech Stack 💻!        
 
