@@ -24,6 +24,9 @@ This is a web based application developed for health couch related based website
 - Included the feedback Survey form to increase the scope of improvement.
 
 ## Screenshots
+##Azure services
+![healthbot - Microsoft Azure - Google Chrome 12_4_2022 7_47_13 PM](https://user-images.githubusercontent.com/116551554/205496514-9ff6c1c8-e233-43f3-b3da-03887d59a008.png)
+![healthbot - Microsoft Azure - Google Chrome 12_4_2022 7_51_56 PM](https://user-images.githubusercontent.com/116551554/205496532-b8df9894-d811-4a40-84b0-26b3741b3454.png
 ![Healthcouch - Google Chrome 11_29_2022 10_28_44 AM](https://user-images.githubusercontent.com/116551554/204472269-f9e1d745-4778-4c20-ada6-2f57c23475d7.png)
 ![Healthcouch - Google Chrome 11_29_2022 10_32_36 AM](https://user-images.githubusercontent.com/116551554/204472325-a74c63c2-ae31-4ad7-ab3f-f4ca3e42e5a4.png)
 ![Healthcouch - Google Chrome 11_29_2022 10_34_39 AM](https://user-images.githubusercontent.com/116551554/204472372-747aba05-2489-4e3b-9c5a-11f864fde436.png)
