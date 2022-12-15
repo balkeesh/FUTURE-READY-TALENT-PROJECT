@@ -7,7 +7,7 @@ This is a web based application developed for health couch related based website
 
 
 **Project Link** -https://balkeesh.github.io/FUTURE-READY-TALENT-PROJECT/services.html
-**project demo video link** - 
+**project demo video link** -https://www.youtube.com/watch?v=eV_k46aRXfo 
 
 ## Azure technologies used for Project
 
