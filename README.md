@@ -6,7 +6,8 @@ This is a web based application developed for health couch related based website
 ### This web based healthy application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://balkeesh.github.io/FUTURE-READY-TALENT-PROJECT/services.html
+**Project Link** -https://proud-mud-09e121b00.2.azurestaticapps.net
+
 **project demo video link** -https://www.youtube.com/watch?v=eV_k46aRXfo 
 
 ## Azure technologies used for Project
